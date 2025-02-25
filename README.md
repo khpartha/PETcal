@@ -48,14 +48,12 @@ The estimated amount of PET required: 72 grams
 ```
 ## How It Works
 - **1. User Input:** The script prompts the user for the cup's diameter and height. 
-- **2. User Input:** 
- - The cup is modeled as a hollow cylinder for the body.
- - A solid disk is used for the bottom.
- - A small cylindrical handle is added. 
-- **3. Weight Estimation:**
-The total volume is calculated and then converted to weight using the density of PET (approx. 0.050 lb/in³).
+- **2. User Input:** The cup is modeled as a hollow cylinder for the body.
+   
+- **3. Weight Estimation:** The total volume is calculated and then converted to weight using the density of PET (approx. 0.050 lb/in³).
 Finally, the weight is converted from pounds to grams.
-
+- 
+- The clear modular structure of the code allows for easy maintenance and future expansion of features.
 
 
 
