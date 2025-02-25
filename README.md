@@ -52,8 +52,12 @@ The estimated amount of PET required: 72 grams
    
 - **3. Weight Estimation:** The total volume is calculated and then converted to weight using the density of PET (approx. 0.050 lb/in³).
 Finally, the weight is converted from pounds to grams.
-- 
-- The clear modular structure of the code allows for easy maintenance and future expansion of features.
+  
+The clear modular structure of the code allows for easy maintenance and future expansion of features.
+
+## Contact 
+For any questions, suggestions, or contributions, please feel free to contact me at 4khundrakpampartha@gmail.com.
+
 
 
 
