@@ -38,7 +38,7 @@ This project provides a quick and easy way to calculate the material requirement
    ```bash
    python pet_cup_calculator.py
 
-**You will be prompted to enter the cup's diameter and height (both in inches). The program will then output the estimated amount of PET required in grams.**
+*You will be prompted to enter the cup's diameter and height (both in inches). The program will then output the estimated amount of PET required in grams.*
  # Example Interaction
  ```python
    Enter the diameter of the cup (in inches): 6
