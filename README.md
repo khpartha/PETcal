@@ -29,7 +29,7 @@ This project provides a quick and easy way to calculate the material requirement
 
    ```bash
    git clone https://github.com/khpartha/PETcal.git
-   cd pet-cup-calculator
+ 
 ``` 
 ## Usage
 Run the Python script from the command line:
