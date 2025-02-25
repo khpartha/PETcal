@@ -28,7 +28,7 @@ This project provides a quick and easy way to calculate the material requirement
  **Clone the repository:**
 
    ```bash
-   git clone https://github.com/khpartha/pet-cup-calculator.git
+   git clone https://github.com/khpartha/PETcal.git
    cd pet-cup-calculator
 ``` 
 ## Usage
