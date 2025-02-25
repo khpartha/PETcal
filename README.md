@@ -1,4 +1,4 @@
-# PET Cup Calculator
+# PET Production Calculator
 
 The PET Cup Calculator is a Python-based tool designed to estimate the amount of PET (Polyethylene Terephthalate) required to manufacture a cup. The calculator takes the cup's diameter and height as user inputs and computes the PET needed, including a simplified handle model.
 
