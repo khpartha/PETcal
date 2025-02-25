@@ -33,9 +33,9 @@ This project provides a quick and easy way to calculate the material requirement
 
 ## Usage
 
-1. **Run the Python script from the command line:**
+2. **Run the Python script from the command line:**
 
    ```bash
-python pet_cup_calculator.py
+   python pet_cup_calculator.py
  
 
