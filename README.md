@@ -25,7 +25,7 @@ This project provides a quick and easy way to calculate the material requirement
 
 ## Installation
 
-1. **Clone the repository:**
+ **Clone the repository:**
 
    ```bash
    git clone https://github.com/Partha/pet-cup-calculator.git
@@ -33,7 +33,7 @@ This project provides a quick and easy way to calculate the material requirement
 
 ## Usage
 
-2. **Run the Python script from the command line:**
+ **Run the Python script from the command line:**
 
    ```bash
    python pet_cup_calculator.py
