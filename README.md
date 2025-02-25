@@ -9,7 +9,6 @@ The PET Cup Calculator is a Python-based tool designed to estimate the amount of
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Overview
